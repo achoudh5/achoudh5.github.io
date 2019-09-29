@@ -4,7 +4,7 @@
     detail: IBM
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I am currently working with Next Gen Network Security Group at the Office of CIO. I work with Operations and Automation team. Currently working on automating mundane tasks, monitoring with grafana & Prometheus and use Python & Ansible extensively. Also, working with the Next Gen Palo Alto firewall with 24X7 oncall support. 
     i18n: company_a_desc
   date:
     detail: Aug, 2019 - Present
@@ -22,19 +22,19 @@
     detail: Nuage Networks (SDN venture of Nokia)
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked as an Intern and Co-op student for an year starting off with building a CI/CD pipleline using Github and Jenkins integration. I was also working with the stakeholders for testing & dev projects and documenting the wiki.
     i18n: company_b_desc
   date:
     detail: May, 2018 - May 2019
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Software Engineer
     i18n: company_b_job
   location:
     detail: Raleigh, NC
     i18n: company_b_location
   icon: landing/nuage-networks-logo.png
-
+  present: true
 - name:
     detail: Wells Fargo
     i18n: company_c
@@ -51,3 +51,4 @@
     detail: Network Security Engineer
     i18n: company_c_job
   icon: landing/Wells-Fargo-logo.jpg
+  present: true
