@@ -15,7 +15,7 @@
   location:
     detail: Research Triangle Park (RTP), NC
     i18n: company_a_location
-  icon: landing/purepng.com-ibm-logologobrand-logoiconslogos-251519939176ka7y8.png 
+  icon: plane-arrival
   present: true
   
 - name:
@@ -33,7 +33,7 @@
   location:
     detail: Raleigh, NC
     i18n: company_b_location
-  icon: landing/nuage-networks-logo.png
+  icon: plane-departure
   present: true
 - name:
     detail: Wells Fargo
@@ -50,5 +50,5 @@
   job:
     detail: Network Security Engineer
     i18n: company_c_job
-  icon: landing/Wells-Fargo-logo.jpg
+  icon: plane-departure
   present: true
