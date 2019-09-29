@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Namaste!! Welcome to Anshul Choudhary's Website"
-description: "Namaste!! Welcome to Anshul Choudhary's Website"
+title: "Namaste, Welcome to Anshul Choudhary's Website"
+description: "Namaste, Welcome to Anshul Choudhary's Website"
 keywords: Anshul,Choudhary,achoudh5,Anshul Choudhary,blog,Jekyll,github,gh-pages
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://achoudh5.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
