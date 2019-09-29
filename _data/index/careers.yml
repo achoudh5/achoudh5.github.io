@@ -16,7 +16,7 @@
     detail: Research Triangle Park (RTP), NC
     i18n: company_a_location
   icon: fa-plane-arrival
-  present: true
+  
   
 - name:
     detail: Nuage Networks (SDN venture of Nokia)
@@ -34,7 +34,7 @@
     detail: Raleigh, NC
     i18n: company_b_location
   icon: fa-plane-departure
-  present: true
+  
 - name:
     detail: Wells Fargo
     i18n: company_c
@@ -51,4 +51,4 @@
     detail: Network Security Engineer
     i18n: company_c_job
   icon: fa-plane-departure
-  present: true
+  
