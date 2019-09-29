@@ -1,30 +1,53 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: IBM
     i18n: company_a
   desc:
     detail: I worked at Company A ...
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Aug, 2019 - Present
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Network Security, Monitoring and Automation Engineer
     i18n: company_a_job
-  icon: fa-plus-square
+  location:
+    detail: Research Triangle Park (RTP), NC
+    i18n: company_a_location
+  icon: landing/purepng.com-ibm-logologobrand-logoiconslogos-251519939176ka7y8.png 
   present: true
-
+  
 - name:
-    detail: Company B
+    detail: Nuage Networks (SDN venture of Nokia)
     i18n: company_b
   desc:
     detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: May, 2018 - May 2019
     i18n: company_b_date
   job:
     detail: Full Stack Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  location:
+    detail: Raleigh, NC
+    i18n: company_b_location
+  icon: landing/nuage-networks-logo.png
+
+- name:
+    detail: Wells Fargo
+    i18n: company_c
+  desc:
+    detail: I worked for 2 years here and was managing end to end secure network connectivity to meet business unit requests. I was part of the Risk Management Business Unit and we won Team of the quarter award as well for our contributions. I was also an active member of the social wing of Wells Fargo. 
+    i18n: company_c_desc
+  date:
+    detail: July,2015 - July,2017
+    i18n: company_c_date
+  location:
+    detail: Bangalore, India
+    i18n: company_c_location
+  job:
+    detail: Network Security Engineer
+    i18n: company_c_job
+  icon: landing/Wells-Fargo-logo.jpg
