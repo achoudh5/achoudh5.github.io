@@ -15,7 +15,7 @@
   location:
     detail: Research Triangle Park (RTP), NC
     i18n: company_a_location
-  icon: fa-plane-arrival
+  icon: fa-plus-square
   
   
 - name:
@@ -33,7 +33,7 @@
   location:
     detail: Raleigh, NC
     i18n: company_b_location
-  icon: fa-plane-departure
+  icon: fa-plus-square
   
 - name:
     detail: Wells Fargo
@@ -50,5 +50,5 @@
   job:
     detail: Network Security Engineer
     i18n: company_c_job
-  icon: fa-plane-departure
+  icon: fa-plus-square
   
