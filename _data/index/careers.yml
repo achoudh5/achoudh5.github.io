@@ -4,7 +4,7 @@
     detail: IBM
     i18n: company_a
   desc:
-    detail: I am currently working with Next Gen Network Security Group at the Office of CIO. I work with Operations and Automation team. Currently working on automating mundane tasks, monitoring with grafana & Prometheus and use Python & Ansible extensively. Also, working with the Next Gen Palo Alto firewall with 24X7 oncall support. 
+    detail: I am currently working with a mission to provide full LifeCycle management of NGFWs to support CIO business objectives. I work with Operations and Automation team. Currently working on automating mundane tasks, monitoring with grafana & Prometheus and use of Python & Ansible extensively. Also, working with the Next Gen Palo Alto firewall with 24X7 oncall support. 
     i18n: company_a_desc
   date:
     detail: Aug, 2019 - Present
