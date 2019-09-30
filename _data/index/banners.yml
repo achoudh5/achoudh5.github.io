@@ -2,7 +2,7 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: DevSecOps-Image-White-Paper_web.jpg
+- src: landing/DevSecOps-Image-White-Paper_web.jpg
   title: first banner image
   
 
